@@ -51,7 +51,7 @@ const Navbar = () => {
           onClick={() => navigate("/home")}
           sx={{
             "&:hover": {
-              color: "orangered",
+              color: "black",
               cursor: "pointer",
             },
           }}
